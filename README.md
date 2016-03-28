@@ -39,6 +39,9 @@ Tutorial : How to read temperature and humidity Sensor data from  LinkIt Smart 7
         2.	Add the library to the Arduino IDE .
             From Arduino IDE -> Sketch -> Include Library -> Add .ZIP library, select the zip you 
             downloaded from the step 1.
+            
+        3. You need to have the PubsubClient library as well. You can download the same from
+           https://github.com/knolleary/pubsubclient and add the library to Arduino IDE.
 
 #Step 4: Use the Arduino Sketch, modify & Upload
       Make sure you follow the below points within the Arduino IDE.
